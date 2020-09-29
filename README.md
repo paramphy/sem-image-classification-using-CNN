@@ -20,3 +20,6 @@ with open("/content/gdrive/My Drive/MEMS_devices_and_electrodes.tar", "wb") as f
 		if block: 
 			file.write(block)
 ```
+- Code to extract data
+
+```!tar -xvf '/content/gdrive/My Drive/MEMS_devices_and_electrodes.tar' -C '/content/gdrive/My Drive/NANOML/'```
