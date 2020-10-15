@@ -1,5 +1,6 @@
 # sem-image-classification-using-CNN
 Colab Notebook for SEM image classificatioin
+And a pathway towards a software for Microsopy in SEM
 
 # Dataset
 - [Paper Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111892/)
